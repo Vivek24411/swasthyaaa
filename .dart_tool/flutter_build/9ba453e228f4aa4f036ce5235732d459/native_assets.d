@@ -1,0 +1,1 @@
+ /home/rootp1/AndroidStudioProjects/swasthya/.dart_tool/flutter_build/9ba453e228f4aa4f036ce5235732d459/native_assets.yaml: 

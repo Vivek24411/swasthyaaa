@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58565426378",
+    "project_id": "priyamenon",
+    "storage_bucket": "priyamenon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58565426378:android:b19d12f6ed896447f74833",
+        "android_client_info": {
+          "package_name": "com.example.swaraksha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx_HuKRgTWMsO35nF0nYY56rBox2sa1To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
