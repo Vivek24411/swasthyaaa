@@ -2,6 +2,8 @@
 [link](https://drive.google.com/drive/folders/15ofnjENXC4PZyKaIV2lARJf6SATc1rbm?usp=sharing)
 above is swasthya apk file, app demo video and screenshots of app pages.
 
+There was error in my old repository of Swasthyaaa, it was not opening which had all the commits, therefore I took screenshot and deleted that repo and made a new repo with same name and uploaded my full code therefore it don't have commits.
+
 # Swasthya - Your Comprehensive Fitness App
 
 Welcome to **Swasthya**, a one-stop solution for all your health and wellness needs. Whether you're aiming to build muscle, lose weight, practice mindfulness, or simply stay hydrated, Swasthya has got you covered. This app integrates workout plans, meditation, yoga, calorie tracking, nutrition planning, BMI calculation, motivational quotes, water tracking, exercise tips, and a to-do list – all in one place. Say goodbye to juggling multiple apps for your fitness journey!
